@@ -1,6 +1,6 @@
 # spring-file-upload
 <h2>File Upload Example</h2>
-<p>In this example a file is loaded and its name is modified isolating a prefix inserted by the user in the prefix field</p>
+<p>In this example a file is loaded and its name is modified isolating a prefix inserted by the user in the prefix field, also shows the list of files inserted into the server</p>
 <img src="fileUpload.png"/>
 <h3>Dependencies:</h3>
 <ul>
